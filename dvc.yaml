@@ -1,0 +1,5 @@
+artifacts:
+  my-model:
+    path: model.pkl
+    type: model
+    desc: "Sample model"
